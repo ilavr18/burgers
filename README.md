@@ -1,5 +1,7 @@
 # burgers
 
+### **This site was built using [GitHub Pages](https://ilavr18.github.io/burgers/)**
+
 Реализовано:
 1. Смена валюты продуктов по нажатию на кнопку в хедере
 2. Валидируемая форма заказа товара
